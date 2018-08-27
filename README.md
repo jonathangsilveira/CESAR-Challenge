@@ -8,33 +8,35 @@ The first to third and fifth and seventh questions had its solutions made throug
 
 # Arrays and Strings
 
+Project: [ArraysAndStrings](https://github.com/jonathangsilveira/ArraysAndString)
+
 # 1. Replacing characters in place:
 
-Solution:
+Solution: [Here](https://github.com/jonathangsilveira/ArraysAndString/blob/master/app/src/main/java/com/portfolio/jgsilveira/cesar/arraysandstring/replacement/ReplacementHelper.java)
 
-Test:
+Test: [Here](https://github.com/jonathangsilveira/ArraysAndString/blob/master/app/src/test/java/com/portfolio/jgsilveira/cesar/arraysandstring/replacement/ReplacementTest.java)
 
-Time Complexity:
+Time Complexity: O(N3)
 
 # 2. Check words with jumbled letters:
 
-Solution:
+Solution: [Here](https://github.com/jonathangsilveira/ArraysAndString/blob/master/app/src/main/java/com/portfolio/jgsilveira/cesar/arraysandstring/jumbledletters/JumbledLettersHelper.java)
 
-Test:
+Test: [Here](https://github.com/jonathangsilveira/ArraysAndString/blob/master/app/src/test/java/com/portfolio/jgsilveira/cesar/arraysandstring/jumbledletters/JumbledLettersTest.java)
 
-Time Complexity:
+Time Complexity: O(N)
 
 # 3. Check words with typos:
 
-Solution:
+Solution: [Here](https://github.com/jonathangsilveira/ArraysAndString/blob/master/app/src/main/java/com/portfolio/jgsilveira/cesar/arraysandstring/typo/TyposHelper.java)
 
-Test:
+Test: [Here](https://github.com/jonathangsilveira/ArraysAndString/blob/master/app/src/test/java/com/portfolio/jgsilveira/cesar/arraysandstring/typo/TypoTest.java)
 
-Time Complexity:
+Time Complexity: O(N)
 
 # 4. [Android] Search on a list:
 
-Solution:
+Solution: [Here](https://github.com/jonathangsilveira/ArraysAndString/blob/master/app/src/main/java/com/portfolio/jgsilveira/cesar/arraysandstring/view/MainActivity.java)
 
 # Linked Lists
 
